@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="258px" height="251px" viewBox="0 0 258 251" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>card_rings</title>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.147419085">
+        <g id="home" transform="translate(-114.000000, -264.000000)" stroke="#FFFFFF" stroke-width="1.59373347">
+            <g id="finance" transform="translate(108.000000, 409.000000)">
+                <g id="card_rings" transform="translate(7.891645, -143.865427)">
+                    <ellipse id="Oval" cx="127.460909" cy="122.146046" rx="60.9173089" ry="59.7650052"></ellipse>
+                    <ellipse id="Oval-Copy" cx="127.065342" cy="123.341346" rx="93.749365" ry="90.4443745"></ellipse>
+                    <ellipse id="Oval-Copy-2" cx="127.460909" cy="123.739779" rx="127.372555" ry="123.514344"></ellipse>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
